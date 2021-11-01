@@ -1,5 +1,6 @@
 ### Olá!👋
--Estudante de Sistema de Informações
+-Desenvolvedor de Sistema de Informações
+
  <div>
   <a href="https://github.com/rodrigoFerreir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoFerreir&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
