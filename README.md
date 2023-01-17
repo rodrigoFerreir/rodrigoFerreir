@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [SONDA it]
 
-- 📘 Software Engineering and Development, Data ananlitic at Python, Kafta, among other fads
+- 📘 Software Engineering and Development, Data ananlitic at Python, Kafka, among other fads
 
 
 <br><br>
@@ -23,7 +23,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br><br>
 
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rodrigoFerreir&show_icons=true&theme=vision-friendly-dark" alt="rodrigoFerreir's stats"/>
@@ -31,7 +31,7 @@
 </p>
 
 <br><br>
-
+-->
 
 ## Contact
 
