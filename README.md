@@ -1,11 +1,16 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rodrigo Ferreira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoFerreir&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I’m Software Developer  
+- I'm a software developer with 3+ years of experience and an Information Systems degree. I'm passionate about AI and computer vision, and I love building innovative solutions using a tech stack that includes Python, Django, Flask, and cloud tools like Docker, Kubernetes, and Kafka. I'm always looking to improve scalability and security in my projects.
 
-- 🔭 I’m currently working at [SONDA it]
+My English skills help me stay up-to-date with the latest tech trends, and I've worked on complex systems using best practices. I'm a friendly, creative, and organized person who's always striving to learn and grow. I'm excited to bring my skills to a new team!
+
+- 👨🏻‍💻 I’m currently working at [SONDA it]
 
 - 📘 Software Engineering and Development, Data ananlitic at Python, Kafka, among other fads
+
+- Tech Skills: Python, Django, Flask, Docker, Kubernetes, Kafka, LLMs, REST APIs, AI, Computer Vision, Information Systems
+- Soft Skills: Problem-solving, teamwork, communication, adaptability, creativity, continuous learning
 
 
 <br><br>
