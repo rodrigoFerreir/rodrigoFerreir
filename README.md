@@ -6,7 +6,7 @@ My English skills help me stay up-to-date with the latest tech trends, and I've 
 
 - 👨🏻‍💻 I’m currently working at [SONDA it]
 
-- 📘 Software Engineering and Development, Data ananlitic at Python, Kafka, among other fads
+- 📘 Software Engineering and Development, Data ananlitic at Python, Django, among other fads
 
 - Tech Skills: Python, Django, Flask, Docker, Kubernetes, Kafka, LLMs, REST APIs, AI, Computer Vision, Information Systems
 - Soft Skills: Problem-solving, teamwork, communication, adaptability, creativity, continuous learning
