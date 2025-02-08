@@ -4,7 +4,7 @@
 I'm a software developer with 3+ years of experience and an Information Systems degree. I'm passionate about AI and computer vision, and I love building innovative solutions using a tech stack that includes Python, Django, Flask, and cloud tools like Docker, Kubernetes, and Kafka. I'm always looking to improve scalability and security in my projects.
 My English skills help me stay up-to-date with the latest tech trends, and I've worked on complex systems using best practices. I'm a friendly, creative, and organized person who's always striving to learn and grow. I'm excited to bring my skills to a new team!
 
-- 👨🏻‍💻 I’m currently working at [SONDA it]
+- 👨🏻‍💻 I’m currently working
 
 - 📘 Software Engineering and Development, Data ananlitic at Python, Django, among other fads
 
